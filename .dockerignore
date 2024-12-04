@@ -1,0 +1,21 @@
+**/*.pyc
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.mo
+
+# Git files
+.git/
+.gitignore
+
+# Environment files
+envs/
+*.env
+.env.example
+.env.ci
+env_collector
+venv/
+
+.idea
+backups
